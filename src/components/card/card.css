@@ -1,0 +1,64 @@
+.button-excel{
+    background-color:white;
+    border: 1px solid #04d6cb;
+    border-radius:2px;
+    color: #04d6cb;
+    padding: 5px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold
+  }  
+  .button-excel:hover{
+      background-color: #04d6cb;
+      color:white;
+  }
+  .card__box {
+    background: #fff;
+    padding: 30px 0 8px 25px;
+    border-radius: 5px;
+    box-shadow:7px 7px 5px -8px #888;
+    text-align: left;
+    overflow:auto;
+    height:200px;
+    width: 350px;
+    margin:15px
+  }
+  .card__box:hover{
+      cursor: pointer;
+      box-shadow: -1px 2px 34px -13px rgba(0,0,0,0.75);
+  }
+  .card__box:hover .card-header-title{
+      color:#04d6cb
+  }
+  .card-header-title{
+      color: rgb(48, 42, 42);
+      margin-left: 35px;
+      font-size:15px;
+      line-height: 0
+  }
+  .card-price{
+    color: gray;
+    font-size:12px;
+}
+  .card-desc{
+    color:gray;
+    font-size: 15px;
+    max-width: 80%;
+  }
+  
+  .card__box-img{
+    border-radius: 50%;
+    width:70px;
+    height:70px;
+    
+}
+
+
+.card__box:hover .card__box-img{
+  opacity:0.3;
+}
+
+  
+  
