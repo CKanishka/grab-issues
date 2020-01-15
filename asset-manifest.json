@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grab-issues/static/css/main.7fabbeec.chunk.css",
+    "main.js": "/grab-issues/static/js/main.711b4b39.chunk.js",
+    "main.js.map": "/grab-issues/static/js/main.711b4b39.chunk.js.map",
+    "runtime-main.js": "/grab-issues/static/js/runtime-main.4f750ff4.js",
+    "runtime-main.js.map": "/grab-issues/static/js/runtime-main.4f750ff4.js.map",
+    "static/js/2.067aa0c0.chunk.js": "/grab-issues/static/js/2.067aa0c0.chunk.js",
+    "static/js/2.067aa0c0.chunk.js.map": "/grab-issues/static/js/2.067aa0c0.chunk.js.map",
+    "index.html": "/grab-issues/index.html",
+    "precache-manifest.06f7d5070e14c57bf450363037e73945.js": "/grab-issues/precache-manifest.06f7d5070e14c57bf450363037e73945.js",
+    "service-worker.js": "/grab-issues/service-worker.js",
+    "static/css/main.7fabbeec.chunk.css.map": "/grab-issues/static/css/main.7fabbeec.chunk.css.map",
+    "static/js/2.067aa0c0.chunk.js.LICENSE": "/grab-issues/static/js/2.067aa0c0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f750ff4.js",
+    "static/js/2.067aa0c0.chunk.js",
+    "static/css/main.7fabbeec.chunk.css",
+    "static/js/main.711b4b39.chunk.js"
+  ]
+}
